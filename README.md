@@ -6,7 +6,7 @@ This project contains three *.py* files:
 
 1. ### media.py
 
-   This file contains a Movie class that I created for a the project.
+   This file contains a Movie class that I created for the project.
 
 2. ### entertainment_center.py
 
