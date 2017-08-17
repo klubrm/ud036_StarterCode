@@ -14,6 +14,8 @@ This project contains three *.py* files:
 
 3. ### fresh_tomatoes.py
 
-   This file contains the starter code that udacity provided and the function that is called to open the website: `def open_movies_page(movies):`
+   This file contains the starter code that udacity provided and the function that is called to open the website: 
+   `def open_movies_page(movies):`
+   Run this program to see the website.
    
 
